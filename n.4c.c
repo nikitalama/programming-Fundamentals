@@ -10,12 +10,12 @@ date        :nov 16,2016
 #include<conio.h>
 int main(){
 int n1,n2,sum;
-printf("enter the first number\n");
+printf("Enter the first number\n");
 scanf("%d",&n1);
-printf("enter the second number\n");
+printf("Enter the second number\n");
 scanf("%d",&n2);
 sum=n1+n2;
-printf("sum of two numbers is %d",sum);
+printf("sum of two numbers is %d\n",sum);
 getch();
 return 0;
 }
