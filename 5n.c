@@ -10,9 +10,9 @@ date         :nov 16,2016
 #include<conio.h>
 int main(){
 int a,b, product;
-printf("enter first number\n");
+printf("Enter first number\n");
 scanf("%d",&a);
-printf("enter second number\n");
+printf("Enter second number\n");
 scanf("%d",&b);
 product=a*b;
 printf("product of two number is %d",product);
