@@ -11,7 +11,7 @@ date        :nov16,2016
 #include<math.h>
 int main(){
 int b,h,area;
-printf("enter value of base\n");
+printf("Enter value of base\n");
 scanf("%d",&b);
 printf("enter value of height\n");
 scanf("%d",&h);
