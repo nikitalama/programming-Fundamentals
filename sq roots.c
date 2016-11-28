@@ -1,6 +1,6 @@
-/*Name:Sabina Prajapati
+/*Name:Nikita Lama
 Subject:Programming Fundamental
-Program:Write a program to enetr any number and calculate its square
+Program:Write a program to enetr any number and calculate its square roots
 Roll no:
 Lab No:3
 Date:16thNov,2016*/
