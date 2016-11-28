@@ -1,6 +1,6 @@
-/*Name:Sabina Prajapati
+/*Name:Nikita Lama
 Subject:Programming Fundamental
-Program:Write a program to print area and volume of the sphere
+Program:Write a program to enter any number and calculate its square
 Roll no:
 Lab No:3
 Date:16thNov,2016*/
