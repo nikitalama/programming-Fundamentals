@@ -1,6 +1,6 @@
 /*
-name:manish silpakar
-roll no:18
+name:nikita lama
+roll no:20
 program: to print to check number is divisible by 5&11 or not 
 subject:proramming fundamental
 lab sheet no:13
