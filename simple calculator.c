@@ -1,6 +1,6 @@
 /*
-name:manish silpakar
-roll no:18
+name:nikita lama
+roll no:20
 program: to create a calculator
 subject:proramming fundamental
 lab sheet no:13
